@@ -1,0 +1,9 @@
+numpy
+mediapipe
+cv2
+opencv-python
+streamlit
+streamlit_cropper
+st_cropper
+Image
+PIL
