@@ -1,7 +1,6 @@
 numpy==1.19.3
 mediapipe==0.8.3
 opencv-python==4.5.3.56
-opencv-python-headless==4.2.0.32
 streamlit==0.84.1
 streamlit_cropper==0.1.3
 
